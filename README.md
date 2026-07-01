@@ -256,7 +256,7 @@ Visualizes yearly sales performance and highlights business growth trends.
 <h2>📈 Dashboard Snapshot</h2>
 
 <p align="center">
-    <img src="Dashboard_output.png" alt="Superstore Sales Dashboard" width="100%">
+    <img src="Dashboard_image.png" alt="Superstore Sales Dashboard" width="100%">
 </p>
 
 <hr>
